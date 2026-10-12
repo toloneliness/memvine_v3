@@ -1,0 +1,33 @@
+[2026-07-27T06:20:51.258560+08:00] layer=1 tasks=4 changes=0 issues=2
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 9.60)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 2.37)
+
+[2026-07-27T08:21:38.409340+08:00] layer=2 tasks=3 changes=20 issues=11
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → records → predicted_association，出现 53 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → predicted_association，出现 32 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → happened_before → predicted_association，出现 30 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 20 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → predicted_association → identity_user，出现 19 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → identity_user → predicted_association，出现 19 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：records → predicted_association → happened_before，出现 16 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → predicted_association，出现 8 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_self → predicted_association → predicted_association，出现 3 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 时序传递链：['happened_before', 'happened_before', 'predicted_association'] (出现30次)
+    ✅ structural_hole: 10 处变更
+    ✅ pattern_recognition: 10 处变更
+
+[2026-07-27T08:27:46.943744+08:00] layer=1 tasks=4 changes=0 issues=2
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 9.84)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 2.35)
+
+[2026-07-27T08:33:06.601286+08:00] layer=1 tasks=4 changes=0 issues=3
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 9.87)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 2.43)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.03)
+
+[2026-07-27T09:08:38.715623+08:00] layer=1 tasks=4 changes=0 issues=3
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 10.08)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 2.46)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.06)
+

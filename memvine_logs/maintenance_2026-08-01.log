@@ -1,0 +1,188 @@
+[2026-08-01T00:04:42.882399+08:00] layer=1 tasks=4 changes=0 issues=10
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 12.86)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 4.67)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...（大脑过载，无法处理）...」(异常得分 3.93)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.00)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.79)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.43)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.41)
+  - [conflict_detection:conflict_detection] 发现异常节点：「预训练 - 微调范式...」(异常得分 2.27)
+  - [conflict_detection:conflict_detection] 发现异常节点：「时间测试    前天是周几...」(异常得分 2.19)
+  - [conflict_detection:conflict_detection] 发现异常节点：「情感抚慰...」(异常得分 2.17)
+
+[2026-08-01T00:09:59.047634+08:00] layer=1 tasks=4 changes=0 issues=10
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 12.30)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 4.78)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...（大脑过载，无法处理）...」(异常得分 3.53)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.09)
+  - [conflict_detection:conflict_detection] 发现异常节点：「用户实体...」(异常得分 2.87)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.84)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.51)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.49)
+  - [conflict_detection:conflict_detection] 发现异常节点：「预训练 - 微调范式...」(异常得分 2.31)
+  - [conflict_detection:conflict_detection] 发现异常节点：「时间测试    前天是周几...」(异常得分 2.23)
+
+[2026-08-01T00:26:54.385353+08:00] layer=2 tasks=3 changes=24 issues=10
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → predicted_association，出现 63 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → name_of → name_of，出现 22 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：SELF_CLAIM → predicted_association → SELF_CLAIM，出现 19 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：name_of → SELF_CLAIM → predicted_association，出现 19 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → predicted_association，出现 14 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_self → predicted_association → predicted_association，出现 10 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 5 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → identity_self，出现 3 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：LABELED_BY → predicted_association → LABELED_BY，出现 3 次，已标记为认知脚本候选
+    ✅ structural_hole: 10 处变更
+    ✅ community_reorganization: 4 处变更
+    ✅ pattern_recognition: 10 处变更
+
+[2026-08-01T00:34:47.028242+08:00] layer=1 tasks=4 changes=0 issues=10
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 12.15)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 5.20)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...（大脑过载，无法处理）...」(异常得分 5.06)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.10)
+  - [conflict_detection:conflict_detection] 发现异常节点：「用户实体...」(异常得分 2.87)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.80)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.55)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.53)
+  - [conflict_detection:conflict_detection] 发现异常节点：「> 🕒 **当前时间**：2026-07-16 22:17:11 Thursday  
+> 📉 **熵减记录**：您的唯...」(异常得分 2.30)
+  - [conflict_detection:conflict_detection] 发现异常节点：「预训练 - 微调范式...」(异常得分 2.28)
+
+[2026-08-01T00:42:28.193744+08:00] layer=1 tasks=4 changes=0 issues=10
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 12.21)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 5.27)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...（大脑过载，无法处理）...」(异常得分 5.12)
+  - [conflict_detection:conflict_detection] 发现异常节点：「用户实体...」(异常得分 3.37)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.16)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.82)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.62)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.60)
+  - [conflict_detection:conflict_detection] 发现异常节点：「> 🕒 **当前时间**：2026-07-16 22:17:11 Thursday  
+> 📉 **熵减记录**：您的唯...」(异常得分 2.36)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.31)
+
+[2026-08-01T00:45:53.614204+08:00] layer=1 tasks=4 changes=0 issues=10
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 12.30)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 5.34)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...（大脑过载，无法处理）...」(异常得分 5.17)
+  - [conflict_detection:conflict_detection] 发现异常节点：「用户实体...」(异常得分 3.42)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.22)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.84)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.69)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.66)
+  - [conflict_detection:conflict_detection] 发现异常节点：「> 🕒 **当前时间**：2026-07-16 22:17:11 Thursday  
+> 📉 **熵减记录**：您的唯...」(异常得分 2.42)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.37)
+
+[2026-08-01T09:43:51.749441+08:00] layer=1 tasks=4 changes=0 issues=10
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 12.29)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 5.39)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...（大脑过载，无法处理）...」(异常得分 5.18)
+  - [conflict_detection:conflict_detection] 发现异常节点：「用户实体...」(异常得分 3.44)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.28)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.84)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.77)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.75)
+  - [conflict_detection:conflict_detection] 发现异常节点：「> 🕒 **当前时间**：2026-07-16 22:17:11 Thursday  
+> 📉 **熵减记录**：您的唯...」(异常得分 2.51)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.49)
+
+[2026-08-01T12:15:11.360040+08:00] layer=1 tasks=4 changes=0 issues=10
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 12.42)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 5.45)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...（大脑过载，无法处理）...」(异常得分 5.26)
+  - [conflict_detection:conflict_detection] 发现异常节点：「用户实体...」(异常得分 3.48)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.32)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.88)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.80)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.77)
+  - [conflict_detection:conflict_detection] 发现异常节点：「> 🕒 **当前时间**：2026-07-16 22:17:11 Thursday  
+> 📉 **熵减记录**：您的唯...」(异常得分 2.53)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.50)
+
+[2026-08-01T12:20:18.391542+08:00] layer=1 tasks=4 changes=0 issues=10
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 12.53)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 5.55)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...（大脑过载，无法处理）...」(异常得分 5.31)
+  - [conflict_detection:conflict_detection] 发现异常节点：「用户实体...」(异常得分 3.54)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.40)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.90)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.89)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.87)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.63)
+  - [conflict_detection:conflict_detection] 发现异常节点：「> 🕒 **当前时间**：2026-07-16 22:17:11 Thursday  
+> 📉 **熵减记录**：您的唯...」(异常得分 2.62)
+
+[2026-08-01T16:29:45.789772+08:00] layer=2 tasks=3 changes=22 issues=10
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → predicted_association，出现 75 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → name_of → name_of，出现 24 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：name_of → SELF_CLAIM → predicted_association，出现 20 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：SELF_CLAIM → predicted_association → SELF_CLAIM，出现 19 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → predicted_association，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_self → predicted_association → predicted_association，出现 9 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → identity_self，出现 6 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 4 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：name_of → LABELED_BY → predicted_association，出现 4 次，已标记为认知脚本候选
+    ✅ structural_hole: 10 处变更
+    ✅ community_reorganization: 2 处变更
+    ✅ pattern_recognition: 10 处变更
+
+[2026-08-01T16:33:52.148994+08:00] layer=1 tasks=4 changes=0 issues=10
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 12.43)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...（大脑过载，无法处理）...」(异常得分 6.10)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 5.49)
+  - [conflict_detection:conflict_detection] 发现异常节点：「用户实体...」(异常得分 4.03)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.49)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.89)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.79)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.76)
+  - [conflict_detection:conflict_detection] 发现异常节点：「> 🕒 **当前时间**：2026-07-16 22:17:11 Thursday  
+> 📉 **熵减记录**：您的唯...」(异常得分 2.75)
+  - [conflict_detection:conflict_detection] 发现异常节点：「> 🕒 **当前时间**：2026-07-16 22:32:45 Thursday
+> 📉 **熵减记录**：用户输入“...」(异常得分 2.61)
+
+[2026-08-01T17:18:01.347929+08:00] layer=2 tasks=3 changes=20 issues=10
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → predicted_association，出现 88 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → name_of → name_of，出现 31 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：name_of → SELF_CLAIM → predicted_association，出现 23 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：SELF_CLAIM → predicted_association → SELF_CLAIM，出现 19 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → predicted_association，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_self → predicted_association → predicted_association，出现 9 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：name_of → LABELED_BY → predicted_association，出现 8 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → identity_self，出现 6 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：SELF_CLAIM → predicted_association → LABELED_BY，出现 5 次，已标记为认知脚本候选
+    ✅ structural_hole: 10 处变更
+    ✅ pattern_recognition: 10 处变更
+
+[2026-08-01T17:23:11.202286+08:00] layer=1 tasks=4 changes=0 issues=10
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 11.97)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 6.67)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...（大脑过载，无法处理）...」(异常得分 6.53)
+  - [conflict_detection:conflict_detection] 发现异常节点：「用户实体...」(异常得分 4.44)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.57)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.93)
+  - [conflict_detection:conflict_detection] 发现异常节点：「> 🕒 **当前时间**：2026-07-16 22:17:11 Thursday  
+> 📉 **熵减记录**：您的唯...」(异常得分 2.73)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.72)
+  - [conflict_detection:conflict_detection] 发现异常节点：「> 🕒 **当前时间**：2026-07-16 22:22:20 Thursday  
+> 📉 **熵减记录**：您引用...」(异常得分 2.68)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.66)
+
+[2026-08-01T17:26:05.681072+08:00] layer=1 tasks=4 changes=0 issues=10
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 11.99)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 6.69)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...（大脑过载，无法处理）...」(异常得分 6.56)
+  - [conflict_detection:conflict_detection] 发现异常节点：「用户实体...」(异常得分 4.46)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.58)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.94)
+  - [conflict_detection:conflict_detection] 发现异常节点：「> 🕒 **当前时间**：2026-07-16 22:17:11 Thursday  
+> 📉 **熵减记录**：您的唯...」(异常得分 2.73)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.73)
+  - [conflict_detection:conflict_detection] 发现异常节点：「> 🕒 **当前时间**：2026-07-16 22:22:20 Thursday  
+> 📉 **熵减记录**：您引用...」(异常得分 2.68)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.67)
+

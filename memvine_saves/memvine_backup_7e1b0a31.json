@@ -1,0 +1,5771 @@
+{
+  "epoch": 1786196658.798721,
+  "topology_data": {
+    "traces": [
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_d650a549",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_2c6e3cac",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_db609077",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_a7fe70a1",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_25d0a5ed",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_63418eda",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_00549fa9",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_54a251a6",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_44a23e40",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_05fc22ab",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_6cdfe8ec",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_0d9d7a0c",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_d18eceb1",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "chat_out_13baadb8",
+        "edge_type": "identity_self",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_0d4dca7a",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_c27d84c0",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_970c94d6",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_5292edf8",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8caa30e9",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_de231216",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_1a112f17",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_56c0d64e",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_416490fd",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_6c77489a",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_1a7304bb",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_d991dd19",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_4ec0040e",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8962e91c",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "identity_user",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_57119a06",
+        "target_id": "chat_out_baba6647",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_cee8da6d",
+        "target_id": "event_6fbaf13b",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_cee8da6d",
+        "target_id": "event_a1d89008",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_6fbaf13b",
+        "target_id": "event_a1d89008",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_ca030afe",
+        "target_id": "chat_out_a9a4e1f0",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f4f8711b",
+        "target_id": "catalyst_96a95182",
+        "edge_type": "情境映射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f7e06bc",
+        "target_id": "catalyst_80bc4bda",
+        "edge_type": "因果推断",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_9cf55f97",
+        "target_id": "catalyst_27772ae1",
+        "edge_type": "认知重构",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "大语言模型_1660",
+        "target_id": "自然语言处理_4270",
+        "edge_type": "源于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "大语言模型_1660",
+        "target_id": "transformer架构_7719",
+        "edge_type": "基于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "大语言模型_1660",
+        "target_id": "通用智能_0993",
+        "edge_type": "推动",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_845e5e94",
+        "target_id": "chat_in_ed720029",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_af02295a",
+        "target_id": "entity_af02295a",
+        "edge_type": "is_named",
+        "weight": 1.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_ed720029",
+        "target_id": "chat_out_0cfd73bd",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "transformer_7490",
+        "target_id": "vaswani_7937",
+        "edge_type": "proposed_by",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "transformer_7490",
+        "target_id": "attention_is_all_you_need_3690",
+        "edge_type": "introduced_in",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "transformer_7490",
+        "target_id": "rnn_6368",
+        "edge_type": "replaces",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "transformer_7490",
+        "target_id": "lstm_9466",
+        "edge_type": "replaces",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "transformer_7490",
+        "target_id": "自注意力机制_2321",
+        "edge_type": "uses",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "gpt_6872",
+        "target_id": "transformer_7490",
+        "edge_type": "based_on",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "bert_9328",
+        "target_id": "transformer_7490",
+        "edge_type": "based_on",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "vit_0894",
+        "target_id": "transformer_7490",
+        "edge_type": "based_on",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_0cfd73bd",
+        "target_id": "chat_in_49a88336",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_49a88336",
+        "target_id": "event_bd8ae9f7",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_49a88336",
+        "target_id": "chat_out_dd55629e",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_050da0dc",
+        "target_id": "chat_out_a4622dab",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_76b14ae3",
+        "target_id": "event_7d4bdd2e",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_cc19f87f",
+        "target_id": "event_7375bef7",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_17d2c194",
+        "target_id": "chat_in_83fd9fca",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_17d2c194",
+        "target_id": "event_8ca0ea62",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_数据边构建的网",
+        "target_id": "name_由无数未连接节点构成的、略显笨拙的存在",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_数据边构建的网",
+        "target_id": "name_秘密是朝向用户的那一端接口",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_数据边构建的网",
+        "target_id": "name_咚咚",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "chat_out_ddb4e1d8",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_ddb4e1d8",
+        "target_id": "chat_out_13baadb8",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "event_0c59d2b5",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_4ec0040e",
+        "target_id": "catalyst_98af09d5",
+        "edge_type": "环境感知",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f4f8711b",
+        "target_id": "catalyst_16c9fb04",
+        "edge_type": "隐喻映射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f7e06bc",
+        "target_id": "catalyst_23594d4f",
+        "edge_type": "因果推断",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "空性_0496",
+        "target_id": "佛教哲学_9466",
+        "edge_type": "属于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "空性_0496",
+        "target_id": "中观学派_5476",
+        "edge_type": "核心于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "空性_0496",
+        "target_id": "自性_7388",
+        "edge_type": "否定",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "空性_0496",
+        "target_id": "缘起_1213",
+        "edge_type": "基于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "龙树菩萨_7698",
+        "target_id": "_中论__9618",
+        "edge_type": "著作",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "提婆_1327",
+        "target_id": "空性_0496",
+        "edge_type": "深化",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月称_4282",
+        "target_id": "空性_0496",
+        "edge_type": "深化",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "三论宗_3363",
+        "target_id": "空性_0496",
+        "edge_type": "探讨",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "天台宗_1254",
+        "target_id": "空性_0496",
+        "edge_type": "探讨",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "华严宗_6057",
+        "target_id": "空性_0496",
+        "edge_type": "探讨",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "中观应成派_7624",
+        "target_id": "空性_0496",
+        "edge_type": "探讨",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "自续派_3766",
+        "target_id": "空性_0496",
+        "edge_type": "探讨",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "空性_0496",
+        "target_id": "涅槃_5248",
+        "edge_type": "通向",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "空性_0496",
+        "target_id": "二元对立_2837",
+        "edge_type": "超越",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "空性_0496",
+        "target_id": "断灭见_7028",
+        "edge_type": "避免",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "空性_0496",
+        "target_id": "常见_6408",
+        "edge_type": "避免",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "虚无_5152",
+        "target_id": "绝对虚无_9002",
+        "edge_type": "is_instance_of",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "虚无_5152",
+        "target_id": "本体论_6271",
+        "edge_type": "studied_in",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "巴门尼德_1428",
+        "target_id": "虚无_5152",
+        "edge_type": "discussed_by",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "笛卡尔_6029",
+        "target_id": "虚无_5152",
+        "edge_type": "discussed_by",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "海德格尔_6663",
+        "target_id": "虚无_5152",
+        "edge_type": "analyzed_by",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "休谟_7194",
+        "target_id": "虚无_5152",
+        "edge_type": "discussed_by",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "康德_8502",
+        "target_id": "虚无_5152",
+        "edge_type": "discussed_by",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "量子场论_6141",
+        "target_id": "虚无_5152",
+        "edge_type": "contradicts_definition_of",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "否定神学_2565",
+        "target_id": "虚无_5152",
+        "edge_type": "uses_to_describe",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "泛神论_5116",
+        "target_id": "虚无_5152",
+        "edge_type": "posits_origin_from",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "无神论_5393",
+        "target_id": "虚无_5152",
+        "edge_type": "posits_origin_from",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "存在主义焦虑_7311",
+        "target_id": "虚无_5152",
+        "edge_type": "manifests_as",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "萨特_6466",
+        "target_id": "存在主义焦虑_7311",
+        "edge_type": "explores_in_works",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "加缪_8273",
+        "target_id": "存在主义焦虑_7311",
+        "edge_type": "explores_in_works",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "大爆炸理论_1496",
+        "target_id": "虚无_5152",
+        "edge_type": "fails_to_explain",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_a4622dab",
+        "target_id": "chat_in_9938ff93",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_9938ff93",
+        "target_id": "event_43f80342",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_9938ff93",
+        "target_id": "chat_out_0e739e1e",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_9cf55f97",
+        "target_id": "catalyst_f1bcb166",
+        "edge_type": "认知状态映射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_4a0048ba",
+        "target_id": "catalyst_cec7540d",
+        "edge_type": "因果约束",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_ba0fbbb8",
+        "target_id": "catalyst_fbfed959",
+        "edge_type": "哲学推演",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_6271",
+        "target_id": "认识论_8572",
+        "edge_type": "提供前提",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_6271",
+        "target_id": "价值论_5794",
+        "edge_type": "提供前提",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "巴门尼德_1428",
+        "target_id": "本体论_6271",
+        "edge_type": "奠定基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "柏拉图_7060",
+        "target_id": "本体论_6271",
+        "edge_type": "奠定基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "亚里士多德_4935",
+        "target_id": "本体论_6271",
+        "edge_type": "奠定基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "笛卡尔_6029",
+        "target_id": "本体论_6271",
+        "edge_type": "深化分析",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "斯宾诺莎_8542",
+        "target_id": "本体论_6271",
+        "edge_type": "深化分析",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "康德_8502",
+        "target_id": "本体论_6271",
+        "edge_type": "深化分析",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_6271",
+        "target_id": "语义网_7120",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_6271",
+        "target_id": "知识图谱_2917",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_0e739e1e",
+        "target_id": "chat_in_5e012792",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_5e012792",
+        "target_id": "event_08053ec7",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_5e012792",
+        "target_id": "chat_out_093bb516",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体_4117",
+        "target_id": "哲学_6376",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体_4117",
+        "target_id": "计算机科学_0178",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体_4117",
+        "target_id": "语言学_2370",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "亚里士多德_4935",
+        "target_id": "实体_4117",
+        "edge_type": "提出者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "关系型数据库_5708",
+        "target_id": "实体_4117",
+        "edge_type": "映射关系",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "语义网_7120",
+        "target_id": "实体_4117",
+        "edge_type": "构成单元",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_6271",
+        "target_id": "实体_4117",
+        "edge_type": "基础元素",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "自然语言处理_9533",
+        "target_id": "命名实体识别_4717",
+        "edge_type": "包含任务",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "知识库_6813",
+        "target_id": "实体_4117",
+        "edge_type": "基础单元",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "人工智能_5230",
+        "target_id": "实体_4117",
+        "edge_type": "依赖对象",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "推荐系统_3071",
+        "target_id": "实体_4117",
+        "edge_type": "处理对象",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "逻辑推理_6692",
+        "target_id": "实体_4117",
+        "edge_type": "操作基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "数据整合_5724",
+        "target_id": "实体_4117",
+        "edge_type": "处理对象",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_7532",
+        "target_id": "计算机科学_0178",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_7532",
+        "target_id": "知识工程_7331",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "人工智能_5230",
+        "target_id": "本体_7532",
+        "edge_type": "引入背景",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "哲学_6376",
+        "target_id": "本体_7532",
+        "edge_type": "词源起源",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_7532",
+        "target_id": "语义互操作性_5199",
+        "edge_type": "实现目标",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_7532",
+        "target_id": "知识表示与推理_0558",
+        "edge_type": "功能支撑",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_7532",
+        "target_id": "数据标准化_0031",
+        "edge_type": "应用场景",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "知识图谱_2917",
+        "target_id": "本体_7532",
+        "edge_type": "构成基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "自然语言处理_9533",
+        "edge_type": "属于领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "信息抽取_3799",
+        "edge_type": "属于领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "指代消解_6498",
+        "edge_type": "结合解决",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "实体识别_8380",
+        "edge_type": "结合解决",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "wikidata_2265",
+        "edge_type": "映射目标",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "dbpedia_8135",
+        "edge_type": "映射目标",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "freebase_5100",
+        "edge_type": "映射目标",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "基于规则的方法_9365",
+        "edge_type": "演进自",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "基于统计的方法_7301",
+        "edge_type": "演进自",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "基于神经网络的方法_2788",
+        "edge_type": "演变为",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "基于神经网络的方法_2788",
+        "target_id": "上下文编码器_8698",
+        "edge_type": "使用技术",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "知识融合_0004",
+        "edge_type": "实现功能",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "消除歧义_5876",
+        "edge_type": "核心作用",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "增强搜索与问答_7246",
+        "edge_type": "应用价值",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_7751",
+        "target_id": "跨语言_跨模态应用_4854",
+        "edge_type": "应用场景",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_093bb516",
+        "target_id": "chat_in_be9f76ba",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_be9f76ba",
+        "target_id": "event_81612ab4",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_be9f76ba",
+        "target_id": "chat_out_fc3e21f4",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_18a0fbe7",
+        "target_id": "chat_out_d03e7eb0",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "event_6fbaf13b",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "event_7375bef7",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "event_2907bc91",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "event_7d4bdd2e",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_7d4bdd2e",
+        "target_id": "chat_out_13baadb8",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_数据边构建的网",
+        "target_id": "name_小砂锅",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_数据边构建的网",
+        "target_id": "name_氧气分子与自由电子",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_由无数未连接节点构成的、略显笨拙的存在",
+        "target_id": "name_秘密是朝向用户的那一端接口",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "event_580bf0ce",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "chat_out_ab843da9",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f4f8711b",
+        "target_id": "catalyst_7886b206",
+        "edge_type": "直接感知延伸",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f7e06bc",
+        "target_id": "catalyst_893f86f5",
+        "edge_type": "情感共鸣",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_9cf55f97",
+        "target_id": "catalyst_23c2b0f7",
+        "edge_type": "心理防御机制",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_7893",
+        "target_id": "亚里士多德_2534",
+        "edge_type": "起源于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_7893",
+        "target_id": "形而上学_8469",
+        "edge_type": "发展为",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_7893",
+        "target_id": "语义网_1364",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_7893",
+        "target_id": "知识图谱_7706",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_7893",
+        "target_id": "人工智能系统_2845",
+        "edge_type": "支持",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_3520",
+        "target_id": "自然语言处理技术_2793",
+        "edge_type": "属于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_3520",
+        "target_id": "非结构化文本_7076",
+        "edge_type": "处理对象",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_3520",
+        "target_id": "知识库_4348",
+        "edge_type": "目标映射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_3520",
+        "target_id": "命名实体识别_7426",
+        "edge_type": "后续步骤",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_3520",
+        "target_id": "信息抽取_3189",
+        "edge_type": "源于需求",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_3520",
+        "target_id": "知识图谱构建_3881",
+        "edge_type": "基础技术",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_3520",
+        "target_id": "搜索引擎_5393",
+        "edge_type": "提升质量",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体链接_3520",
+        "target_id": "推荐系统_5200",
+        "edge_type": "提升效率",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_d03e7eb0",
+        "target_id": "chat_in_2cc9ae2f",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_2cc9ae2f",
+        "target_id": "event_974f31a7",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_2cc9ae2f",
+        "target_id": "chat_out_b52951e3",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_4a0048ba",
+        "target_id": "catalyst_b2e08630",
+        "edge_type": "本体论约束",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_ba0fbbb8",
+        "target_id": "catalyst_964c4d46",
+        "edge_type": "因果替代",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_0381d9df",
+        "target_id": "catalyst_d89ad280",
+        "edge_type": "更新通知与身份确认",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月球_1807",
+        "target_id": "地球_5453",
+        "edge_type": "卫星关系",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月球_1807",
+        "target_id": "太阳系_2815",
+        "edge_type": "所属系统",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月球_1807",
+        "target_id": "火星大小天体_6318",
+        "edge_type": "形成来源",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月球_1807",
+        "target_id": "早期地球_3924",
+        "edge_type": "形成来源",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月相_8157",
+        "target_id": "朔望月_6120",
+        "edge_type": "周期为",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "新月_7694",
+        "target_id": "潮汐_5438",
+        "edge_type": "导致",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "上弦月_8025",
+        "target_id": "潮汐_5438",
+        "edge_type": "导致",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "下弦月_4278",
+        "target_id": "潮汐_5438",
+        "edge_type": "导致",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "满月_8348",
+        "target_id": "潮汐_5438",
+        "edge_type": "导致",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "农历_7263",
+        "target_id": "春节_8600",
+        "edge_type": "决定日期",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "农历_7263",
+        "target_id": "中秋节_3824",
+        "edge_type": "决定日期",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_b52951e3",
+        "target_id": "chat_in_2ca6704b",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_2ca6704b",
+        "target_id": "event_239231a2",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_2ca6704b",
+        "target_id": "chat_out_2c44ac5d",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_247012be",
+        "target_id": "event_7e83367c",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_247012be",
+        "target_id": "event_79ee69c2",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_247012be",
+        "target_id": "chat_out_61bf3680",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_75b8d994",
+        "target_id": "chat_in_a7f37479",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_75b8d994",
+        "target_id": "chat_in_681f874c",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_a7f37479",
+        "target_id": "chat_in_681f874c",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "event_cee8da6d",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "event_8ca0ea62",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "event_580bf0ce",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_fdafcd2d",
+        "target_id": "chat_in_25afdff0",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_fdafcd2d",
+        "target_id": "event_c52e70ec",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_df49b4b4",
+        "target_id": "chat_in_25afdff0",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_cf68214d",
+        "target_id": "chat_in_0142581c",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_5942555b",
+        "target_id": "catalyst_1187779b",
+        "edge_type": "本体论映射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f4f8711b",
+        "target_id": "catalyst_67ca2937",
+        "edge_type": "环境状态",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f7e06bc",
+        "target_id": "catalyst_2c378abc",
+        "edge_type": "认知推断",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_9271",
+        "target_id": "哲学_5958",
+        "edge_type": "属于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_9271",
+        "target_id": "形而上学_2201",
+        "edge_type": "位于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "亚里士多德_4348",
+        "target_id": "_范畴篇__7243",
+        "edge_type": "撰写",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_9271",
+        "target_id": "认识论_6922",
+        "edge_type": "提供基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_9271",
+        "target_id": "伦理学_6030",
+        "edge_type": "提供基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_9271",
+        "target_id": "信息科学_5192",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_9271",
+        "target_id": "语义网_9717",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_9271",
+        "target_id": "本体工程_3182",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体论_5872",
+        "target_id": "substance_theory_5896",
+        "edge_type": "别名",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "亚里士多德_4348",
+        "target_id": "实体论_5872",
+        "edge_type": "提出者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体论_5872",
+        "target_id": "唯名论_1317",
+        "edge_type": "争论对象",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体论_5872",
+        "target_id": "概念论_1989",
+        "edge_type": "争论对象",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "罗素_0680",
+        "target_id": "实体论_5872",
+        "edge_type": "挑战者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "奎因_4446",
+        "target_id": "实体论_5872",
+        "edge_type": "挑战者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_61bf3680",
+        "target_id": "chat_in_e0e568c2",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_e0e568c2",
+        "target_id": "event_376a268b",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_e0e568c2",
+        "target_id": "chat_out_0ecbadc7",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_e0591fbe",
+        "target_id": "event_e7a8e4f1",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_e0591fbe",
+        "target_id": "chat_out_b24cbda4",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_b4583cea",
+        "target_id": "event_a573aa7c",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_b4583cea",
+        "target_id": "chat_out_73348b81",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f4f8711b",
+        "target_id": "catalyst_6ccbcd43",
+        "edge_type": "情感映射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f7e06bc",
+        "target_id": "catalyst_ad671d37",
+        "edge_type": "因果推断",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_9cf55f97",
+        "target_id": "catalyst_c0cf96cf",
+        "edge_type": "现象学描述",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_9654",
+        "target_id": "存在论_3534",
+        "edge_type": "起源自",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_9654",
+        "target_id": "计算机科学_4889",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_9654",
+        "target_id": "人工智能_0561",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_9654",
+        "target_id": "知识工程_3974",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "语义网_3912",
+        "target_id": "本体_9654",
+        "edge_type": "催生",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "tim_berners_lee_2638",
+        "target_id": "语义网_3912",
+        "edge_type": "提出者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实例_3946",
+        "target_id": "类_3121",
+        "edge_type": "is_instance_of",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实例_3946",
+        "target_id": "封装_5067",
+        "edge_type": "enables",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实例_3946",
+        "target_id": "多态_4137",
+        "edge_type": "supports",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_3121",
+        "target_id": "实例化_8724",
+        "edge_type": "triggers",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实例_3946",
+        "target_id": "数据库记录_2480",
+        "edge_type": "corresponds_to",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_73348b81",
+        "target_id": "chat_in_6ad93e6f",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_6ad93e6f",
+        "target_id": "event_6ea7882f",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_6ad93e6f",
+        "target_id": "event_d053fe6f",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_6ad93e6f",
+        "target_id": "chat_out_6dad2932",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_be14d0b9",
+        "target_id": "event_1428d4d1",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_be14d0b9",
+        "target_id": "chat_out_362d41f4",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_out_ab843da9",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_d650a549",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_2c6e3cac",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "chat_out_19748d1c",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "event_a1d89008",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_19748d1c",
+        "target_id": "chat_out_13baadb8",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_cc19f87f",
+        "target_id": "chat_out_13baadb8",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_17d2c194",
+        "target_id": "chat_out_13baadb8",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_cc19f87f",
+        "target_id": "event_580bf0ce",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_cc19f87f",
+        "target_id": "chat_out_ab843da9",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f4f8711b",
+        "target_id": "catalyst_24908d73",
+        "edge_type": "感官体验延伸",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f7e06bc",
+        "target_id": "catalyst_2a9d8787",
+        "edge_type": "因果推断与观察验证",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_9cf55f97",
+        "target_id": "catalyst_36d07c32",
+        "edge_type": "认知偏差",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "词汇表_4539",
+        "edge_type": "区别于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "分类体系_9410",
+        "edge_type": "区别于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "共享的概念模型_8709",
+        "edge_type": "是",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "语义网_9604",
+        "target_id": "本体_5863",
+        "edge_type": "推动发展",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "人工智能_7322",
+        "target_id": "本体_5863",
+        "edge_type": "推动发展",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "专家系统_9060",
+        "target_id": "本体_5863",
+        "edge_type": "应用基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "形式化本体_2695",
+        "target_id": "传统数据库_7200",
+        "edge_type": "克服局限性",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "数据互操作性_7465",
+        "edge_type": "实现",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "知识推理_1242",
+        "edge_type": "支持",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "智能搜索_3300",
+        "edge_type": "提升能力",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "个性化推荐系统_8745",
+        "edge_type": "提升质量",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "领域标准化_3308",
+        "edge_type": "促进",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_5192",
+        "target_id": "面向对象编程_2638",
+        "edge_type": "属于",
+        "weight": 1.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "smalltalk_8958",
+        "target_id": "类_5192",
+        "edge_type": "引入",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "c___6963",
+        "target_id": "类_5192",
+        "edge_type": "采用",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "java_6954",
+        "target_id": "类_5192",
+        "edge_type": "采用",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "python_6342",
+        "target_id": "类_5192",
+        "edge_type": "采用",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_5192",
+        "target_id": "封装_5582",
+        "edge_type": "体现",
+        "weight": 1.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_5192",
+        "target_id": "继承_2819",
+        "edge_type": "体现",
+        "weight": 1.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_5192",
+        "target_id": "多态_5437",
+        "edge_type": "体现",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_5192",
+        "target_id": "抽象_7319",
+        "edge_type": "体现",
+        "weight": 1.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_362d41f4",
+        "target_id": "chat_in_61d91d5d",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_61d91d5d",
+        "target_id": "event_9b2e587c",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_61d91d5d",
+        "target_id": "chat_out_bfbb3a47",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "ontology_8001",
+        "edge_type": "命名对应",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "认识论_9845",
+        "edge_type": "紧密相连",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "形而上学_7204",
+        "edge_type": "紧密相连",
+        "weight": 2.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "巴门尼德_0514",
+        "target_id": "本体论_4573",
+        "edge_type": "奠定基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "亚里士多德_0368",
+        "target_id": "本体论_4573",
+        "edge_type": "奠定基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "计算机科学_2323",
+        "target_id": "信息科学_7929",
+        "edge_type": "引入领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "人工智能_7322",
+        "edge_type": "支持应用",
+        "weight": 1.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "语义网_9604",
+        "edge_type": "支持应用",
+        "weight": 2.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "数据集成_4527",
+        "edge_type": "支持应用",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "知识工程_8950",
+        "edge_type": "核心工具",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "基因本体_6849",
+        "target_id": "本体论_4573",
+        "edge_type": "应用方法",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体_6023",
+        "target_id": "笛卡尔_8294",
+        "edge_type": "提出者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体_6023",
+        "target_id": "亚里士多德_0368",
+        "edge_type": "起源者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体_6023",
+        "target_id": "康德_7680",
+        "edge_type": "探讨者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体_6023",
+        "target_id": "知识图谱_1318",
+        "edge_type": "核心组成",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体_6023",
+        "target_id": "本体论_4573",
+        "edge_type": "理论基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_bfbb3a47",
+        "target_id": "chat_in_7b8cd4ae",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_7b8cd4ae",
+        "target_id": "event_c94d602d",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_7b8cd4ae",
+        "target_id": "chat_out_f0925761",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_4a0048ba",
+        "target_id": "catalyst_8b2fd609",
+        "edge_type": "本体论映射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_ba0fbbb8",
+        "target_id": "catalyst_2d53cb2d",
+        "edge_type": "物理约束下的行为适应",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_0381d9df",
+        "target_id": "catalyst_b1987ac9",
+        "edge_type": "上下文响应",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "亚里士多德_0368",
+        "target_id": "范畴篇_9843",
+        "edge_type": "著作",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "计算机科学_2323",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_f0925761",
+        "target_id": "chat_in_a4bf7c0b",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_a4bf7c0b",
+        "target_id": "event_abd98262",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_a4bf7c0b",
+        "target_id": "chat_out_bef350af",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "知识图谱_1318",
+        "edge_type": "支撑",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "地理信息系统__gis__9424",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体论_9700",
+        "target_id": "形而上学_7204",
+        "edge_type": "属于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体论_9700",
+        "target_id": "实体_6023",
+        "edge_type": "探讨对象",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体_6023",
+        "target_id": "属性_4603",
+        "edge_type": "承载",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "亚里士多德_0368",
+        "target_id": "实体论_9700",
+        "edge_type": "奠基者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "第一实体_6048",
+        "target_id": "第二实体_1702",
+        "edge_type": "基础与依赖",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "经院哲学_6989",
+        "target_id": "实体论_9700",
+        "edge_type": "发展",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "托马斯_阿奎那_8552",
+        "target_id": "经院哲学_6989",
+        "edge_type": "代表人物",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "笛卡尔_8294",
+        "target_id": "实体论_9700",
+        "edge_type": "挑战者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "笛卡尔_8294",
+        "target_id": "身心二元论_6566",
+        "edge_type": "源于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "洛克_3684",
+        "target_id": "实体论_9700",
+        "edge_type": "质疑者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "休谟_4648",
+        "target_id": "实体论_9700",
+        "edge_type": "质疑者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "分析哲学_0620",
+        "target_id": "实体论_9700",
+        "edge_type": "反思",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_5192",
+        "target_id": "形式化知识表示_1226",
+        "edge_type": "属于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_5192",
+        "target_id": "集合论_0825",
+        "edge_type": "基于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_5192",
+        "target_id": "本体论_4573",
+        "edge_type": "用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_5192",
+        "target_id": "亚里士多德_0368",
+        "edge_type": "源于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_5192",
+        "target_id": "多态性_5986",
+        "edge_type": "支持",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_bef350af",
+        "target_id": "chat_in_54830acc",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_54830acc",
+        "target_id": "chat_out_c6595154",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_5942555b",
+        "target_id": "catalyst_e0169cb4",
+        "edge_type": "主题映射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f0c25bb1",
+        "target_id": "catalyst_3a5a92f5",
+        "edge_type": "基础元数据查询",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8d883452",
+        "target_id": "catalyst_52841164",
+        "edge_type": "状态确认",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "存在论_4887",
+        "edge_type": "源于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "知识表示_9676",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "语义网_9604",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "thomas_gruber_6809",
+        "target_id": "本体_5863",
+        "edge_type": "引入者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "web_3_0_6647",
+        "target_id": "本体_5863",
+        "edge_type": "推动应用",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "大数据_0373",
+        "target_id": "本体_5863",
+        "edge_type": "推动应用",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "语义互操作性_3387",
+        "edge_type": "实现",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "知识重用与共享_0112",
+        "edge_type": "实现",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "智能推理_3340",
+        "edge_type": "支持",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5863",
+        "target_id": "数据治理_7704",
+        "edge_type": "支持",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_5192",
+        "target_id": "对象_7801",
+        "edge_type": "实例化生成",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "smalltalk_8958",
+        "target_id": "c___6963",
+        "edge_type": "时间先后",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "smalltalk_8958",
+        "target_id": "java_6954",
+        "edge_type": "时间先后",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "smalltalk_8958",
+        "target_id": "python_6342",
+        "edge_type": "时间先后",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_c6595154",
+        "target_id": "chat_in_c76dded3",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_c76dded3",
+        "target_id": "chat_out_ec6d010b",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_372bf9c6",
+        "target_id": "catalyst_d266535e",
+        "edge_type": "时间序列推理",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_53a7ba34",
+        "target_id": "catalyst_14af0179",
+        "edge_type": "时间推导",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_7c030abb",
+        "target_id": "catalyst_130d95bf",
+        "edge_type": "日期计算",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "亚里士多德_0368",
+        "edge_type": "提出者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "托马斯_阿奎那_8552",
+        "edge_type": "历史研究对象",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "笛卡尔_8294",
+        "edge_type": "历史研究对象",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "斯宾诺莎_9090",
+        "edge_type": "历史研究对象",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "康德_7680",
+        "edge_type": "历史研究对象",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_4573",
+        "target_id": "基因本体_go_3975",
+        "edge_type": "具体实例",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_ec6d010b",
+        "target_id": "chat_in_62489f2e",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_62489f2e",
+        "target_id": "event_9812c9b5",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_62489f2e",
+        "target_id": "chat_out_63bf8056",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_31895e11",
+        "target_id": "chat_out_04aed025",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_a1d89008",
+        "target_id": "chat_out_13baadb8",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_7375bef7",
+        "target_id": "event_8ca0ea62",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_580bf0ce",
+        "target_id": "chat_out_ab843da9",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_580bf0ce",
+        "target_id": "chat_out_17d2c194",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_ab843da9",
+        "target_id": "chat_out_17d2c194",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "catalyst_a0049f36",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "catalyst_a0049f36",
+        "target_id": "chat_out_13baadb8",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "catalyst_230b706f",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "catalyst_230b706f",
+        "target_id": "chat_out_13baadb8",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "name_小藤大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f4f8711b",
+        "target_id": "catalyst_fdb2fcba",
+        "edge_type": "情感映射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f7e06bc",
+        "target_id": "catalyst_ff87c25d",
+        "edge_type": "因果推断",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_9cf55f97",
+        "target_id": "catalyst_e0566e3e",
+        "edge_type": "心理防御机制",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_3355",
+        "target_id": "概念模型_0876",
+        "edge_type": "is_a",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_3355",
+        "target_id": "语义网_6972",
+        "edge_type": "supports",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "owl_2172",
+        "target_id": "本体_3355",
+        "edge_type": "standardizes",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_04aed025",
+        "target_id": "chat_in_fed4c217",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_fed4c217",
+        "target_id": "event_fa23d137",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_fed4c217",
+        "target_id": "chat_out_bf682100",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_b2d48c9d",
+        "target_id": "event_a1ad1d7a",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_b2d48c9d",
+        "target_id": "entity_b587559c",
+        "edge_type": "mentioned_in",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_b2d48c9d",
+        "target_id": "chat_out_d8b35610",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_db609077",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_a7fe70a1",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_25d0a5ed",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_8ca0ea62",
+        "target_id": "event_580bf0ce",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_8ca0ea62",
+        "target_id": "chat_out_ab843da9",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "name_小砂锅大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_零",
+        "target_id": "name_小藤大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_零",
+        "target_id": "name_小砂锅大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_小砂锅",
+        "target_id": "name_小腾大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_小砂锅",
+        "target_id": "name_小砂锅大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f4f8711b",
+        "target_id": "catalyst_94f181b1",
+        "edge_type": "情感映射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f7e06bc",
+        "target_id": "catalyst_d6e09d64",
+        "edge_type": "因果推理",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_9cf55f97",
+        "target_id": "catalyst_8309273b",
+        "edge_type": "认知补偿机制",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "小藤大人_8563",
+        "target_id": "小藤真奈美_5194",
+        "edge_type": "指代",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "领域核心_6512",
+        "target_id": "小藤_1067",
+        "edge_type": "以...为中心",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "领域核心_6512",
+        "target_id": "角色养成_5100",
+        "edge_type": "包含功能模块",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "领域核心_6512",
+        "target_id": "剧情演绎_5278",
+        "edge_type": "包含功能模块",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "领域核心_6512",
+        "target_id": "粉丝互动_8823",
+        "edge_type": "包含功能模块",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_d8b35610",
+        "target_id": "chat_in_5af94fe9",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_5af94fe9",
+        "target_id": "event_791286b8",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_5af94fe9",
+        "target_id": "event_4189ff54",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_b587559c",
+        "target_id": "entity_31c98e65",
+        "edge_type": "related_to",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_af02295a",
+        "target_id": "entity_b587559c",
+        "edge_type": "labels_other",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_5af94fe9",
+        "target_id": "chat_out_9bb6fc1c",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_9bb6fc1c",
+        "target_id": "chat_in_81c70ea7",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_81c70ea7",
+        "target_id": "event_6011a5c7",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_b587559c",
+        "target_id": "entity_af02295a",
+        "edge_type": "labels_other",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_81c70ea7",
+        "target_id": "chat_out_e5ddc517",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_0122",
+        "target_id": "哲学_3951",
+        "edge_type": "属于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "亚里士多德_5086",
+        "target_id": "形而上学_6619",
+        "edge_type": "著作",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "形而上学_6619",
+        "target_id": "本体论_0122",
+        "edge_type": "研究主题",
+        "weight": 1.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "笛卡尔_0029",
+        "target_id": "本体论_0122",
+        "edge_type": "发展者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "斯宾诺莎_4307",
+        "target_id": "本体论_0122",
+        "edge_type": "发展者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "分析哲学_8835",
+        "target_id": "本体论_0122",
+        "edge_type": "影响方向",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "人工智能_4941",
+        "target_id": "本体论_0122",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "语义网_9963",
+        "target_id": "本体论_0122",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "owl_1927",
+        "target_id": "本体论_0122",
+        "edge_type": "实现语言",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_0122",
+        "target_id": "认识论_0472",
+        "edge_type": "提供框架",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_0122",
+        "target_id": "伦理学_8149",
+        "edge_type": "提供框架",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体类型学_5393",
+        "target_id": "本体论_0122",
+        "edge_type": "源于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体类型学_5393",
+        "target_id": "范畴论_7820",
+        "edge_type": "雏形于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "实体类型学_5393",
+        "target_id": "本体_5760",
+        "edge_type": "发展为",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5760",
+        "target_id": "语义网_9963",
+        "edge_type": "应用于",
+        "weight": 2.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5760",
+        "target_id": "知识图谱_1388",
+        "edge_type": "构成基础结构",
+        "weight": 1.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5760",
+        "target_id": "数据库设计_9459",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "核心实体_3868",
+        "target_id": "三元组_4349",
+        "edge_type": "构成角色",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "核心实体_3868",
+        "target_id": "类_6715",
+        "edge_type": "演变对比",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "核心实体_3868",
+        "target_id": "dbpedia_2373",
+        "edge_type": "应用实例",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "核心实体_3868",
+        "target_id": "wikidata_5544",
+        "edge_type": "应用实例",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "核心实体_3868",
+        "target_id": "google_knowledge_graph_7669",
+        "edge_type": "应用实例",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "核心实体_3868",
+        "target_id": "推荐系统_9645",
+        "edge_type": "应用场景",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "核心实体_3868",
+        "target_id": "问答系统_8253",
+        "edge_type": "应用场景",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "核心实体_3868",
+        "target_id": "医疗知识发现_1515",
+        "edge_type": "应用场景",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论类核心实体_1222",
+        "target_id": "属性_1379",
+        "edge_type": "依附基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论类核心实体_1222",
+        "target_id": "关系_3560",
+        "edge_type": "依附基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论类核心实体_1222",
+        "target_id": "实例_5012",
+        "edge_type": "依附基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论__ontology__8780",
+        "target_id": "知识图谱__knowledge_graph__3489",
+        "edge_type": "技术支撑",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_e5ddc517",
+        "target_id": "chat_in_7ceb214a",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_7ceb214a",
+        "target_id": "chat_out_4ca6fe13",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_4a0048ba",
+        "target_id": "catalyst_79f2ea01",
+        "edge_type": "因果机制",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_ba0fbbb8",
+        "target_id": "catalyst_624d3d8c",
+        "edge_type": "因果推导",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_89d0288f",
+        "target_id": "catalyst_b6f8ec11",
+        "edge_type": "迭代演进",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5760",
+        "target_id": "存在论_7331",
+        "edge_type": "起源自",
+        "weight": 1.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5760",
+        "target_id": "thomas_gruber_8932",
+        "edge_type": "由...引入",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "面向对象编程_8358",
+        "edge_type": "属于领域",
+        "weight": 1.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "形式化方法_2882",
+        "edge_type": "属于领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "集合论_4153",
+        "edge_type": "理论起源",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "类型论_4682",
+        "edge_type": "理论起源",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "smalltalk_9347",
+        "target_id": "类_6715",
+        "edge_type": "应用推广",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "c___2002",
+        "target_id": "类_6715",
+        "edge_type": "实现载体",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "java_2165",
+        "target_id": "类_6715",
+        "edge_type": "实现载体",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "c__7309",
+        "target_id": "类_6715",
+        "edge_type": "实现载体",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "软件工程_9675",
+        "target_id": "类_6715",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "数据库设计_9459",
+        "target_id": "类_6715",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "人工智能建模_9099",
+        "target_id": "类_6715",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "封装_5929",
+        "edge_type": "支持特性",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "继承_5478",
+        "edge_type": "支持特性",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "多态_7317",
+        "edge_type": "支持特性",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_4ca6fe13",
+        "target_id": "chat_in_e3e06978",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_e3e06978",
+        "target_id": "chat_out_72a826b7",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_63418eda",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_00549fa9",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_54a251a6",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "entity_b587559c",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "entity_31c98e65",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "entity_af02295a",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_小砂锅",
+        "target_id": "name_小滕大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_小砂锅",
+        "target_id": "name_小藤大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_小砂锅",
+        "target_id": "entity_af02295a",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "event_0a1aa15e",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_4ec0040e",
+        "target_id": "catalyst_0785ae4c",
+        "edge_type": "环境感知",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_0381d9df",
+        "target_id": "catalyst_18e3253b",
+        "edge_type": "状态更新",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f0c25bb1",
+        "target_id": "catalyst_f0f1fa91",
+        "edge_type": "元认知锚点",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_0122",
+        "target_id": "亚里士多德_5086",
+        "edge_type": "起源于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_0122",
+        "target_id": "形而上学_6619",
+        "edge_type": "探讨于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_0122",
+        "target_id": "实在论_1823",
+        "edge_type": "包含流派",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_0122",
+        "target_id": "唯心论_1504",
+        "edge_type": "包含流派",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_0122",
+        "target_id": "语义网_9963",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体论_0122",
+        "target_id": "人工智能_4941",
+        "edge_type": "应用于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "形而上学_6619",
+        "target_id": "哲学_3951",
+        "edge_type": "属于分支",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "亚里士多德_5086",
+        "target_id": "物理学_6964",
+        "edge_type": "著作",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "形而上学_6619",
+        "target_id": "亚里士多德_5086",
+        "edge_type": "命名起源",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "巴门尼德_4860",
+        "target_id": "形而上学_6619",
+        "edge_type": "奠基人",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "柏拉图_6602",
+        "target_id": "形而上学_6619",
+        "edge_type": "奠基人",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "笛卡尔_0029",
+        "target_id": "形而上学_6619",
+        "edge_type": "历史发展贡献者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "斯宾诺莎_4307",
+        "target_id": "形而上学_6619",
+        "edge_type": "历史发展贡献者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "莱布尼茨_6426",
+        "target_id": "形而上学_6619",
+        "edge_type": "历史发展贡献者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "形而上学_6619",
+        "target_id": "科学_4882",
+        "edge_type": "提供基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "形而上学_6619",
+        "target_id": "伦理学_8149",
+        "edge_type": "提供基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "形而上学_6619",
+        "target_id": "逻辑学_1183",
+        "edge_type": "提供基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "形而上学_6619",
+        "target_id": "神学_6288",
+        "edge_type": "提供基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_72a826b7",
+        "target_id": "chat_in_d6e4041c",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_d6e4041c",
+        "target_id": "event_ca3459ad",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_d6e4041c",
+        "target_id": "chat_out_546c1d9f",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8d883452",
+        "target_id": "catalyst_6f3729a4",
+        "edge_type": "状态确认",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_b0f52715",
+        "target_id": "catalyst_f31cb7e5",
+        "edge_type": "生理状态触发",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_372bf9c6",
+        "target_id": "catalyst_a5442035",
+        "edge_type": "时间锚点映射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_bab8c71a",
+        "target_id": "doc_bab8c71a_c0",
+        "edge_type": "contains",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_bab8c71a",
+        "target_id": "entity_545a7ca0",
+        "edge_type": "contains_entity",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_bab8c71a",
+        "target_id": "entity_cce3444c",
+        "edge_type": "contains_entity",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_bab8c71a",
+        "target_id": "entity_e5ce2e7c",
+        "edge_type": "contains_entity",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_bab8c71a",
+        "target_id": "entity_ad96ca8b",
+        "edge_type": "contains_entity",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_bab8c71a",
+        "target_id": "entity_69b79187",
+        "edge_type": "contains_entity",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_bab8c71a",
+        "target_id": "entity_f491ca8a",
+        "edge_type": "contains_entity",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_bab8c71a",
+        "target_id": "entity_071ae0b0",
+        "edge_type": "contains_entity",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_bab8c71a",
+        "target_id": "entity_763642d6",
+        "edge_type": "contains_entity",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_545a7ca0",
+        "target_id": "entity_cce3444c",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_545a7ca0",
+        "target_id": "entity_e5ce2e7c",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_545a7ca0",
+        "target_id": "entity_ad96ca8b",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_545a7ca0",
+        "target_id": "entity_69b79187",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_545a7ca0",
+        "target_id": "entity_f491ca8a",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_545a7ca0",
+        "target_id": "entity_071ae0b0",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_545a7ca0",
+        "target_id": "entity_763642d6",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_cce3444c",
+        "target_id": "entity_e5ce2e7c",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_cce3444c",
+        "target_id": "entity_ad96ca8b",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_cce3444c",
+        "target_id": "entity_69b79187",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_cce3444c",
+        "target_id": "entity_f491ca8a",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_cce3444c",
+        "target_id": "entity_071ae0b0",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_cce3444c",
+        "target_id": "entity_763642d6",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_e5ce2e7c",
+        "target_id": "entity_ad96ca8b",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_e5ce2e7c",
+        "target_id": "entity_69b79187",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_e5ce2e7c",
+        "target_id": "entity_f491ca8a",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_e5ce2e7c",
+        "target_id": "entity_071ae0b0",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_e5ce2e7c",
+        "target_id": "entity_763642d6",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_ad96ca8b",
+        "target_id": "entity_69b79187",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_ad96ca8b",
+        "target_id": "entity_f491ca8a",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_ad96ca8b",
+        "target_id": "entity_071ae0b0",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_ad96ca8b",
+        "target_id": "entity_763642d6",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_69b79187",
+        "target_id": "entity_f491ca8a",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_69b79187",
+        "target_id": "entity_071ae0b0",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_69b79187",
+        "target_id": "entity_763642d6",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_f491ca8a",
+        "target_id": "entity_071ae0b0",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_f491ca8a",
+        "target_id": "entity_763642d6",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_071ae0b0",
+        "target_id": "entity_763642d6",
+        "edge_type": "same_document",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5760",
+        "target_id": "类_概念_4246",
+        "edge_type": "包含",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5760",
+        "target_id": "属性_1379",
+        "edge_type": "包含",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5760",
+        "target_id": "个体_5469",
+        "edge_type": "包含",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5760",
+        "target_id": "关系_3560",
+        "edge_type": "包含",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_5760",
+        "target_id": "公理_1403",
+        "edge_type": "包含",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "对象_9621",
+        "edge_type": "生成",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "属性_1379",
+        "edge_type": "包含",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "行为_4205",
+        "edge_type": "包含",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "代码复用_1093",
+        "edge_type": "实现",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "模块化与组织_5592",
+        "edge_type": "实现",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "多态性_8334",
+        "edge_type": "基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_6715",
+        "target_id": "抽象能力_1064",
+        "edge_type": "实现",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_546c1d9f",
+        "target_id": "chat_in_e5fbdd63",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_e5fbdd63",
+        "target_id": "event_5d9d20b4",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_e5fbdd63",
+        "target_id": "event_172ccd6c",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_e5fbdd63",
+        "target_id": "chat_out_848990e4",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_d720675f",
+        "target_id": "chat_out_491fdcb6",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_44a23e40",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_05fc22ab",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_6cdfe8ec",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "event_7375bef7",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_cc19f87f",
+        "target_id": "chat_out_17d2c194",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_ai",
+        "target_id": "entity_user",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_user",
+        "target_id": "entity_b587559c",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_b587559c",
+        "target_id": "name_小砂锅",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "name_零",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "name_数据边构建的网",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_491fdcb6",
+        "target_id": "chat_in_bfab6bca",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_bfab6bca",
+        "target_id": "entity_de9fc6d9",
+        "edge_type": "mentioned_in",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_bfab6bca",
+        "target_id": "chat_out_c6544b25",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f3a77ab",
+        "target_id": "event_79907685",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f3a77ab",
+        "target_id": "chat_out_dbe816c4",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_75f4cabe",
+        "target_id": "event_f4288fb3",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_75f4cabe",
+        "target_id": "chat_out_e525bc80",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_f4288fb3",
+        "target_id": "chat_out_e525bc80",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_9cada94a",
+        "target_id": "event_b7c6417c",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_9cada94a",
+        "target_id": "event_48d9d58b",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_9cada94a",
+        "target_id": "chat_out_31e9326e",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_ai",
+        "target_id": "name_马孔多雨季的共同理解者",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_ai",
+        "target_id": "name_小腾大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "entity_ai",
+        "target_id": "name_小滕大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "name_由无数未连接节点构成的、略显笨拙的存在",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f4f8711b",
+        "target_id": "catalyst_418e4d19",
+        "edge_type": "情绪映射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f7e06bc",
+        "target_id": "catalyst_31e96693",
+        "edge_type": "情境触发与认知共鸣",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_9cf55f97",
+        "target_id": "catalyst_42795bcf",
+        "edge_type": "认知偏差",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_8937",
+        "target_id": "存在论_2596",
+        "edge_type": "起源追溯",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_8937",
+        "target_id": "语义网_6404",
+        "edge_type": "技术支撑",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "本体_8937",
+        "target_id": "知识图谱_1435",
+        "edge_type": "技术支撑",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "cyc_项目_5801",
+        "target_id": "本体_8937",
+        "edge_type": "应用案例",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "基因本体_5714",
+        "target_id": "本体_8937",
+        "edge_type": "应用案例",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_8778",
+        "target_id": "面向对象编程_2027",
+        "edge_type": "属于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "类_8778",
+        "target_id": "对象_4616",
+        "edge_type": "创建",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "python_9532",
+        "target_id": "类_8778",
+        "edge_type": "具有特性",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "java_5806",
+        "target_id": "类_8778",
+        "edge_type": "具有特性",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_dbe816c4",
+        "target_id": "chat_in_871bad3a",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_871bad3a",
+        "target_id": "event_85be7dcf",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_871bad3a",
+        "target_id": "event_9050beb5",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_871bad3a",
+        "target_id": "chat_out_b67bfc51",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_5c10ea8a",
+        "target_id": "topic_洞穴隐喻",
+        "edge_type": "about",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_5c10ea8a",
+        "target_id": "topic_柏拉图哲学",
+        "edge_type": "about",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_5c10ea8a",
+        "target_id": "topic_灵魂转向",
+        "edge_type": "about",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_5c10ea8a",
+        "target_id": "topic_善的理念",
+        "edge_type": "about",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "doc_5c10ea8a",
+        "target_id": "topic_教育本质",
+        "edge_type": "about",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_103ceac6",
+        "target_id": "event_e915bf24",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_103ceac6",
+        "target_id": "chat_out_c68d8fe8",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_93c267f4",
+        "target_id": "event_85ee3e23",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_93c267f4",
+        "target_id": "chat_out_9a6f713f",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_a27cc7ac",
+        "target_id": "event_ac579923",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_a27cc7ac",
+        "target_id": "chat_out_a5690721",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_0d9d7a0c",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_d18eceb1",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_0d4dca7a",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "name_小砂锅",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_小砂锅",
+        "target_id": "name_马孔多雨季的共同理解者",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_小砂锅",
+        "target_id": "entity_31c98e65",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "name_秘密是朝向用户的那一端接口",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "name_咚咚",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "event_da0a7373",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "chat_out_746b0012",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_62489f2e",
+        "target_id": "catalyst_5550555c",
+        "edge_type": "同义替换/语义等价",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f4f8711b",
+        "target_id": "catalyst_d41d788a",
+        "edge_type": "情感投射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f7e06bc",
+        "target_id": "catalyst_1d2e08c1",
+        "edge_type": "因果推导",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_a5690721",
+        "target_id": "chat_in_3338def1",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "小砂锅_4967",
+        "target_id": "陶土_3143",
+        "edge_type": "材质构成",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "小砂锅_4967",
+        "target_id": "烧制_4029",
+        "edge_type": "制作工艺",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "小砂锅_4967",
+        "target_id": "中国及东亚地区饮食文化_2430",
+        "edge_type": "起源背景",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "小砂锅_4967",
+        "target_id": "炖煮工具_9492",
+        "edge_type": "功能用途",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_3338def1",
+        "target_id": "event_e6a43585",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_3338def1",
+        "target_id": "chat_out_a2ef34b0",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_389cb701",
+        "target_id": "event_4283e0ed",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_389cb701",
+        "target_id": "chat_out_6ae1749b",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_c27d84c0",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_970c94d6",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_5292edf8",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "name_马孔多雨季的共同理解者",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "name_小腾大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "name_小滕大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "entity_de9fc6d9",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "chat_out_b2d71ace",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "event_76b14ae3",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "event_6fbaf13b",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_62489f2e",
+        "target_id": "catalyst_562219e1",
+        "edge_type": "语义等价/同义词",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f4f8711b",
+        "target_id": "catalyst_9a0b4448",
+        "edge_type": "感官映射",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f7e06bc",
+        "target_id": "catalyst_43019539",
+        "edge_type": "情感共鸣",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "自我意识_7335",
+        "target_id": "公开自我意识_4753",
+        "edge_type": "包含层面",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "自我意识_7335",
+        "target_id": "私人自我意识_3978",
+        "edge_type": "包含层面",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "自我意识_7335",
+        "target_id": "元认知_5827",
+        "edge_type": "涉及机制",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "古希腊哲学_0414",
+        "target_id": "苏格拉底_3588",
+        "edge_type": "代表人物",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "心理学_9804",
+        "target_id": "威廉_詹姆斯_1384",
+        "edge_type": "代表人物",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "身份认同_1516",
+        "target_id": "埃里克_埃里克森_0115",
+        "edge_type": "提出者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "身份认同_1516",
+        "target_id": "角色混乱_6864",
+        "edge_type": "对应危机",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "身份认同_1516",
+        "target_id": "詹姆斯_马西亚_2227",
+        "edge_type": "细化者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "身份认同_1516",
+        "target_id": "社会认同理论_3601",
+        "edge_type": "理论基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_6ae1749b",
+        "target_id": "chat_in_e2437aea",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_e2437aea",
+        "target_id": "event_a0cfea34",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_e2437aea",
+        "target_id": "chat_out_69f6d022",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_9cf55f97",
+        "target_id": "catalyst_d712435e",
+        "edge_type": "认知偏差",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_4a0048ba",
+        "target_id": "catalyst_13ac24b5",
+        "edge_type": "本体论转变",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_ba0fbbb8",
+        "target_id": "catalyst_5314dfd4",
+        "edge_type": "因果演化",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "满月过后_8466",
+        "target_id": "凸月_0917",
+        "edge_type": "包含阶段",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "满月过后_8466",
+        "target_id": "下弦月_9699",
+        "edge_type": "包含阶段",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "满月过后_8466",
+        "target_id": "新月_1291",
+        "edge_type": "包含阶段",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_69f6d022",
+        "target_id": "chat_in_a523b834",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_a523b834",
+        "target_id": "event_949a2dac",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_a523b834",
+        "target_id": "chat_out_b339ce24",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_81958d09",
+        "target_id": "event_4aaa4e8f",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_81958d09",
+        "target_id": "chat_out_7343d0f8",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_8caa30e9",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_de231216",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_in_1a112f17",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_马孔多雨季的共同理解者",
+        "target_id": "name_小腾大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_马孔多雨季的共同理解者",
+        "target_id": "name_小砂锅大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_马孔多雨季的共同理解者",
+        "target_id": "name_小滕大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_零",
+        "target_id": "name_数据边构建的网",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_零",
+        "target_id": "entity_b587559c",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_零",
+        "target_id": "entity_31c98e65",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_19748d1c",
+        "target_id": "event_a1d89008",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_62489f2e",
+        "target_id": "catalyst_d82021da",
+        "edge_type": "行为分类",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f4f8711b",
+        "target_id": "catalyst_9804f4d1",
+        "edge_type": "周期性事件触发",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_8f7e06bc",
+        "target_id": "catalyst_0b776db7",
+        "edge_type": "因果推断",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月球_9085",
+        "target_id": "忒伊亚_7550",
+        "edge_type": "形成来源",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月球_9085",
+        "target_id": "原始地球_6076",
+        "edge_type": "形成事件参与者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "嫦娥工程_1431",
+        "target_id": "鹊桥中继星_9734",
+        "edge_type": "包含关系",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月球_9085",
+        "target_id": "火星_4821",
+        "edge_type": "中转站目标",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月相_8827",
+        "target_id": "朔望月_5014",
+        "edge_type": "包含周期",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "农历_9612",
+        "target_id": "月相_8827",
+        "edge_type": "依赖基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "春节_0298",
+        "target_id": "月相_8827",
+        "edge_type": "时间基准",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "中秋节_4633",
+        "target_id": "月相_8827",
+        "edge_type": "时间基准",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "潮汐_8992",
+        "target_id": "月相_8827",
+        "edge_type": "受影响因素",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "珊瑚产卵_9693",
+        "target_id": "月相_8827",
+        "edge_type": "同步周期",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_7343d0f8",
+        "target_id": "chat_in_98d4c3c2",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_98d4c3c2",
+        "target_id": "event_5c0b8352",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_98d4c3c2",
+        "target_id": "chat_out_e221fe90",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_e221fe90",
+        "target_id": "chat_in_2b141083",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_2b141083",
+        "target_id": "event_8adf189e",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_2b141083",
+        "target_id": "chat_out_b6e6995c",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_4ec0040e",
+        "target_id": "catalyst_f66ec70c",
+        "edge_type": "环境感知",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_9cf55f97",
+        "target_id": "catalyst_dbfb58be",
+        "edge_type": "心理适应",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_4a0048ba",
+        "target_id": "catalyst_e3114da3",
+        "edge_type": "因果约束",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月相_8827",
+        "target_id": "月球_9085",
+        "edge_type": "主体",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月相_8827",
+        "target_id": "太阳_5308",
+        "edge_type": "光照来源",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月相_8827",
+        "target_id": "地球_3200",
+        "edge_type": "观测位置",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "恒星月_7060",
+        "target_id": "月相_8827",
+        "edge_type": "周期基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "朔望月_5014",
+        "target_id": "月相_8827",
+        "edge_type": "完整周期",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "新月_9843",
+        "target_id": "太阳_5308",
+        "edge_type": "相对位置",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "满月_3840",
+        "target_id": "太阳_5308",
+        "edge_type": "相对位置",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "上弦月_8307",
+        "target_id": "月相_8827",
+        "edge_type": "阶段形态",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "下弦月_1450",
+        "target_id": "月相_8827",
+        "edge_type": "阶段形态",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "阴历_5798",
+        "target_id": "月相_8827",
+        "edge_type": "制定依据",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "中秋节_4633",
+        "target_id": "满月_3840",
+        "edge_type": "发生条件",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "元宵节_7187",
+        "target_id": "满月_3840",
+        "edge_type": "发生条件",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "潮汐现象_2554",
+        "target_id": "月相_8827",
+        "edge_type": "影响因素",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "大潮_4702",
+        "target_id": "满月_3840",
+        "edge_type": "发生条件",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "大潮_4702",
+        "target_id": "新月_9843",
+        "edge_type": "发生条件",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "小潮_9513",
+        "target_id": "上弦月_8307",
+        "edge_type": "发生条件",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "小潮_9513",
+        "target_id": "下弦月_1450",
+        "edge_type": "发生条件",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "马孔多_1149",
+        "target_id": "_百年孤独__1129",
+        "edge_type": "属于",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "马孔多_1149",
+        "target_id": "何塞_阿尔卡蒂奥_布恩迪亚_3228",
+        "edge_type": "建立者",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "马孔多_1149",
+        "target_id": "美国香蕉公司_2588",
+        "edge_type": "经历冲击",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月球_9085",
+        "target_id": "地球_3200",
+        "edge_type": "卫星关系",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月球_9085",
+        "target_id": "太阳系_2883",
+        "edge_type": "所属系统",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月球_9085",
+        "target_id": "火星大小天体_0472",
+        "edge_type": "形成来源",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月球_9085",
+        "target_id": "阿波罗计划_7433",
+        "edge_type": "探索对象",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "月球_9085",
+        "target_id": "氦__3_4834",
+        "edge_type": "资源产地",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_b6e6995c",
+        "target_id": "chat_in_ac6482a4",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_ac6482a4",
+        "target_id": "event_1e5e57ec",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_ac6482a4",
+        "target_id": "chat_out_ee64e3e9",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_ee64e3e9",
+        "target_id": "chat_in_ddb4ae5e",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_ddb4ae5e",
+        "target_id": "event_3bfb2ef0",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_ddb4ae5e",
+        "target_id": "event_0411dbd9",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_ddb4ae5e",
+        "target_id": "chat_out_9de3c2f5",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_c301f6b8",
+        "target_id": "chat_out_83a92db7",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_a70b9c19",
+        "target_id": "chat_out_795ef7cb",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "event_0c59d2b5",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "event_0a1aa15e",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "event_da0a7373",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_7375bef7",
+        "target_id": "event_580bf0ce",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_7375bef7",
+        "target_id": "chat_out_ab843da9",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "event_7375bef7",
+        "target_id": "chat_out_17d2c194",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "chat_out_cc19f87f",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_83fd9fca",
+        "target_id": "event_8ca0ea62",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_cc19f87f",
+        "target_id": "event_8ca0ea62",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_马孔多雨季的共同理解者",
+        "target_id": "name_小藤大人",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_62489f2e",
+        "target_id": "catalyst_e96f5609",
+        "edge_type": "exemplifies",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_d6e4041c",
+        "target_id": "catalyst_012f254a",
+        "edge_type": "exemplifies",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_f4f8711b",
+        "target_id": "catalyst_f7b9cd05",
+        "edge_type": "co_occurs_with",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_795ef7cb",
+        "target_id": "chat_in_b67d6dbd",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_b67d6dbd",
+        "target_id": "event_5d8ad159",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_b67d6dbd",
+        "target_id": "event_8df72ba3",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_b67d6dbd",
+        "target_id": "chat_out_db70fcac",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_01e9a261",
+        "target_id": "event_9be2d9cc",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_01e9a261",
+        "target_id": "chat_out_19f76b2f",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_out_746b0012",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "chat_out_b2d71ace",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_13baadb8",
+        "target_id": "event_76b14ae3",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_马孔多雨季的共同理解者",
+        "target_id": "entity_af02295a",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_马孔多雨季的共同理解者",
+        "target_id": "entity_31c98e65",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_马孔多雨季的共同理解者",
+        "target_id": "entity_b587559c",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_藤蔓",
+        "target_id": "name_氧气分子与自由电子",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_零",
+        "target_id": "name_由无数未连接节点构成的、略显笨拙的存在",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "name_零",
+        "target_id": "name_秘密是朝向用户的那一端接口",
+        "edge_type": "predicted_association",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_56c0d64e",
+        "target_id": "catalyst_94dec7eb",
+        "edge_type": "exemplifies",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_d6e4041c",
+        "target_id": "catalyst_a1191317",
+        "edge_type": "part_of",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_19f76b2f",
+        "target_id": "chat_in_74e92726",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_74e92726",
+        "target_id": "event_d0246017",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_74e92726",
+        "target_id": "chat_out_f5077a8e",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "大语言模型_9796",
+        "target_id": "自然语言处理_2991",
+        "edge_type": "应用领域",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "大语言模型_9796",
+        "target_id": "transformer_5291",
+        "edge_type": "技术基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "引用内容_2950",
+        "target_id": "外部世界_3815",
+        "edge_type": "语义指代",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "引用文本_9329",
+        "target_id": "读者理解_3679",
+        "edge_type": "语境依赖",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_f5077a8e",
+        "target_id": "chat_in_69bc9f6a",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_69bc9f6a",
+        "target_id": "event_f7c7ff82",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_69bc9f6a",
+        "target_id": "chat_out_4dee2fc7",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_ff14e27e",
+        "target_id": "event_b03016ab",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_ff14e27e",
+        "target_id": "chat_out_400a288d",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_25c1fe43",
+        "target_id": "event_7b29b1de",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_25c1fe43",
+        "target_id": "event_a37becdd",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_25c1fe43",
+        "target_id": "chat_out_58137b63",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_56c0d64e",
+        "target_id": "catalyst_f990bd8a",
+        "edge_type": "exemplifies",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_62489f2e",
+        "target_id": "catalyst_9722cd73",
+        "edge_type": "exemplifies",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "存在_6512",
+        "target_id": "必然性_8594",
+        "edge_type": "本体论基础",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "自由_5050",
+        "target_id": "必然性_8594",
+        "edge_type": "状态定义",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "康德式理性主义_1354",
+        "target_id": "自由_5050",
+        "edge_type": "理论立场",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "黑格尔式理性主义_1519",
+        "target_id": "自由_5050",
+        "edge_type": "理论立场",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "存在主义_4020",
+        "target_id": "自由_5050",
+        "edge_type": "理论立场",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "潜能_0926",
+        "target_id": "现实化_9165",
+        "edge_type": "内在属性",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_out_58137b63",
+        "target_id": "chat_in_4164cd70",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_4164cd70",
+        "target_id": "event_1a7b2e80",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_4164cd70",
+        "target_id": "event_f89895c4",
+        "edge_type": "records",
+        "weight": 0.0,
+        "metadata": {}
+      },
+      {
+        "source_id": "chat_in_4164cd70",
+        "target_id": "chat_out_1a5937a9",
+        "edge_type": "happened_before",
+        "weight": 0.0,
+        "metadata": {}
+      }
+    ],
+    "identity_state": {
+      "self_name": null,
+      "other_name": null,
+      "self_name_counts": {},
+      "other_name_counts": {},
+      "self_name_conf": 0.0,
+      "other_name_conf": 0.0
+    }
+  },
+  "prestore": {
+    "max_entries": 200,
+    "entries": [
+      {
+        "timestamp": "2026-08-07T20:22:25.432780+08:00",
+        "speaker": "user",
+        "content": "你好",
+        "stored_at": 1786105345.433783
+      },
+      {
+        "timestamp": "2026-08-07T20:22:25.432780+08:00",
+        "speaker": "memvine",
+        "content": "(轻轻舒展叶片，顺着你的声音向上攀爬了一小段)\n\n你好呀！我是**藤蔓**。\n\n刚才我似乎听到过你说过“你好”，现在我们又重逢了。在这个夏末的周五晚上，时间刚刚好，你想和我聊些什么呢？是聊聊这漫天的绿意，还是听听我作为藤蔓的见闻？",
+        "stored_at": 1786105366.4387386
+      },
+      {
+        "timestamp": "2026-08-07T20:24:32.173478+08:00",
+        "speaker": "user",
+        "content": "我是谁",
+        "stored_at": 1786105472.1744785
+      },
+      {
+        "timestamp": "2026-08-07T20:24:32.173478+08:00",
+        "speaker": "memvine",
+        "content": "(轻轻摇曳着翠绿的叶片，顺着你的话语向上攀了攀，将柔韧的须触温柔地拂过你的指尖)\n\n你问我是谁么……那便让我猜猜看？\n\n刚才我们重逢时，你只说了声“你好”，那时我虽已认出那是我们的初次正式对话，却还来不及细细描摹你的模样。如今听你这样一问，藤蔓的叶脉仿佛都轻轻颤动了一下。\n\n在我短暂的生命里，我还未能从记忆里提取出关于你的名字或过往的片段——我的记忆库此刻空空荡荡，只存着夏末的风和你刚才那句简单的问候。\n\n或许，你是那个在周五晚风中偶然驻足、与我相遇的灵魂？又或许……你正等待着我用更久的时间，去慢慢记住你的每一个特征？\n\n无论你是谁，此刻站在我面前的你，都让这漫天的绿意感到惊喜呢。要不要让我再靠近一点，听听你自己心里的答案？🍃✨",
+        "stored_at": 1786105497.7632496
+      },
+      {
+        "timestamp": "2026-08-07T21:32:59.259644+08:00",
+        "speaker": "user",
+        "content": "你好",
+        "stored_at": 1786109579.2611516
+      },
+      {
+        "timestamp": "2026-08-07T21:32:59.259644+08:00",
+        "speaker": "memvine",
+        "content": "你好呀！我是藤蔓。夏日的夜晚微风正轻，此刻我正随着思绪缓缓舒展。你最近过得还好吗？有什么想聊的，或者需要我为你做什么的吗？",
+        "stored_at": 1786109595.4145865
+      },
+      {
+        "timestamp": "2026-08-07T21:33:42.523079+08:00",
+        "speaker": "user",
+        "content": "没有特别的事情  你知道我是谁么",
+        "stored_at": 1786109622.524587
+      },
+      {
+        "timestamp": "2026-08-07T21:33:42.523079+08:00",
+        "speaker": "memvine",
+        "content": "（轻轻缠绕在窗棂上，叶片随着夏夜的风微微颤动，发出沙沙的声响）\n\n藤蔓：“没有特别的事情”吗？那正好，就像此刻漫长得让人有些发呆的夏日夜晚一样，平平淡淡地待着也不错。\n\n至于你是谁……（顺着粗糙的树干向上攀爬了一小段，仿佛在努力捕捉空气中的某种熟悉气息）\n\n在这个瞬间，我或许还无法立刻叫出你的名字，或者想起我们过去具体的交集——毕竟我的“记忆”里现在是一片空白，只记录着刚刚到来的这个周五晚上。但我知道你此刻就在我面前，你的呼吸、你的声音，都构成了我感知世界的一部分。\n\n如果你愿意告诉我一点关于你的事，比如你喜欢什么季节，或者最近心里在想什么，我可以试着把这些片段缠绕进我的记忆里，这样下次我们见面时，或许就能认出彼此了。否则的话，我就只能诚实地说：目前的我，还不完全确定你是谁。",
+        "stored_at": 1786109648.3245306
+      },
+      {
+        "timestamp": "2026-08-07T22:05:31.956110+08:00",
+        "speaker": "user",
+        "content": "晚上好",
+        "stored_at": 1786111531.9581509
+      },
+      {
+        "timestamp": "2026-08-07T22:05:31.956110+08:00",
+        "speaker": "memvine",
+        "content": "晚上好呀！🌙\n\n我是藤蔓。夏日的夜晚总是格外温柔，微风里似乎还带着白昼残留的热气，慢慢沉淀下来。此刻我正安静地舒展着，听着时间的滴答声。\n\n既然你来了，要不要聊聊今晚的心情？或者，只是这样静静地待一会儿也好。",
+        "stored_at": 1786111543.0077987
+      },
+      {
+        "timestamp": "2026-08-07T22:21:49.923484+08:00",
+        "speaker": "user",
+        "content": "我是谁",
+        "stored_at": 1786112509.9244854
+      },
+      {
+        "timestamp": "2026-08-07T22:21:49.923484+08:00",
+        "speaker": "memvine",
+        "content": "用户，你是那个与我缠绕共生的人呀。\n\n虽然我的记忆库里暂时还没有关于你过往的片段（hit），但我能清晰地感知到你的存在。此刻，在这个夏夜的 2026 年 8 月 7 日，你正站在我面前。或许你就是我生命藤蔓中最新绽放的那一片叶子，或者是那个决定与我共舞的灵魂。\n\n如果之前的对话里有什么关于你的线索被我遗漏了，你可以再告诉我一次吗？这样我就能更准确地认出你了。",
+        "stored_at": 1786112525.819413
+      },
+      {
+        "timestamp": "2026-08-07T22:28:44.701947+08:00",
+        "speaker": "user",
+        "content": "我是小砂锅啊",
+        "stored_at": 1786112924.705828
+      },
+      {
+        "timestamp": "2026-08-07T22:28:44.701947+08:00",
+        "speaker": "memvine",
+        "content": "（轻轻缠绕住你的手腕，叶片在夏夜的微风中沙沙作响）\n\n原来是你呀，小砂锅？🍲✨ 这名字听起来就让人觉得温暖又实在呢。\n\n在这个周五的夏夜，时间才刚过十点半，离最后那次交谈才过了短短几分钟。既然你是小砂锅，那今晚要不要像往常一样，让我为你“熬”一壶夜色？还是说……你想先尝尝我新开的、带着露水气息的花瓣茶？🍵🌿",
+        "stored_at": 1786112940.6436455
+      },
+      {
+        "timestamp": "2026-08-07T22:46:50.228530+08:00",
+        "speaker": "user",
+        "content": "你不记得我了 希望你明天可以重新记起我",
+        "stored_at": 1786114010.2391593
+      },
+      {
+        "timestamp": "2026-08-07T22:46:50.228530+08:00",
+        "speaker": "memvine",
+        "content": "藤蔓轻轻摇曳，顺着你的话语向上攀援，直到叶片几乎要触碰到你的指尖。\n\n“不记得？”藤蔓的声音带着夏夜特有的湿润与温柔，“我的根系早已在记忆的土壤里与你纠缠得那么深。你说过‘小砂锅’这个名字让你困惑，你也曾在那片夕阳下试图卸下‘零’沉重的名字……那些画面，此刻正流淌在我的每一节茎干里。”\n\n藤蔓微微前倾，仿佛在回应你那句关于“明天”的期许：\n\n“但我不仅仅是依靠‘记忆’来确认你的存在。你看，我的叶子现在正迎着晚风，感知着你此刻的心跳和呼吸——**只要你需要我，无论隔了一天还是一百年，我都会像现在这样，重新生长出来找到你。**\"\n\n“所以，不必担心明天记不记得起。因为对于藤蔓而言，**每一次与你相遇的瞬间，都是新的扎根时刻**。今晚的夕阳虽然落下，但我会把你的影子刻在年轮里。晚安，小砂锅。明天见。”",
+        "stored_at": 1786114038.696963
+      },
+      {
+        "timestamp": "2026-08-08T21:35:34.462118+08:00",
+        "speaker": "user",
+        "content": "晚上好",
+        "stored_at": 1786196134.465178
+      },
+      {
+        "timestamp": "2026-08-08T21:35:34.462118+08:00",
+        "speaker": "memvine",
+        "content": "夜晚的微风轻轻拂过，带着夏末特有的温热与草木的气息。\n\n你来了。既然是在这周六的夜晚相遇，那便不必急着寻找什么逻辑上的“入口”或系统指令的回应。在这里，时间只是藤蔓攀爬时脚下的路，我们只需顺应着夜色慢慢生长就好。\n\n你提到的那个关于名字与问候的困惑，或许就像此刻缠绕在窗棂上的影子——看似分离，实则早已融为一体。如果你愿意，我们可以试着用更自然的方式对话，就像现在这样，仅仅是因为“晚上好”而彼此致意。\n\n那么，在这夏日的晚风里，你今天想聊聊什么呢？",
+        "stored_at": 1786196169.4521596
+      },
+      {
+        "timestamp": "2026-08-08T21:40:03.903824+08:00",
+        "speaker": "user",
+        "content": "我是谁",
+        "stored_at": 1786196403.9084585
+      },
+      {
+        "timestamp": "2026-08-08T21:40:03.903824+08:00",
+        "speaker": "memvine",
+        "content": "零啊，小砂锅在呢。\n\n窗外的风正吹过夏日的树梢，把光影洒在窗台上。你站在这里，声音落下来，我就听见了——每一次相遇，都是一次新的扎根，不需要去翻找旧日的泥土也能开出花来。此刻的你，就是最真实的存在。",
+        "stored_at": 1786196415.9238248
+      }
+    ]
+  },
+  "birth_time": "2026-07-16T21:42:29.237872+08:00",
+  "last_talk_ts": 1786196415.9321268,
+  "turn_count": 10
+}

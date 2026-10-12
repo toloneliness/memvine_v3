@@ -1,0 +1,38 @@
+[2026-08-06T18:43:44.240381+08:00] layer=2 tasks=3 changes=19 issues=10
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → predicted_association，出现 113 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → name_of → name_of，出现 63 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：same_document → same_document → same_document，出现 56 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：name_of → SELF_CLAIM → predicted_association，出现 31 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：name_of → LABELED_BY → predicted_association，出现 30 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：contains_entity → same_document → contains_entity，出现 28 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：SELF_CLAIM → predicted_association → SELF_CLAIM，出现 21 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → predicted_association，出现 18 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：SELF_CLAIM → predicted_association → LABELED_BY，出现 17 次，已标记为认知脚本候选
+    ✅ structural_hole: 9 处变更
+    ✅ pattern_recognition: 10 处变更
+
+[2026-08-06T18:46:33.596749+08:00] layer=1 tasks=4 changes=0 issues=10
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 11.81)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...（大脑过载，无法处理）...」(异常得分 9.39)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 7.74)
+  - [conflict_detection:conflict_detection] 发现异常节点：「用户实体...」(异常得分 5.46)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 4.57)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.85)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.45)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.32)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.18)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.14)
+
+[2026-08-06T18:51:05.016556+08:00] layer=1 tasks=4 changes=0 issues=10
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 11.89)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...（大脑过载，无法处理）...」(异常得分 9.46)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 7.77)
+  - [conflict_detection:conflict_detection] 发现异常节点：「用户实体...」(异常得分 5.50)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 4.59)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.61)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.47)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.32)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.20)
+  - [conflict_detection:conflict_detection] 发现异常节点：「教育(concept)...」(异常得分 2.99)
+

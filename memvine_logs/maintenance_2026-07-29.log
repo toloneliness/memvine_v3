@@ -1,0 +1,70 @@
+[2026-07-29T00:09:22.260385+08:00] layer=2 tasks=3 changes=10 issues=11
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → predicted_association，出现 42 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → records → predicted_association，出现 30 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → happened_before → predicted_association，出现 24 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 19 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：records → predicted_association → happened_before，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → predicted_association，出现 11 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → name_of → name_of，出现 10 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：SELF_CLAIM → predicted_association → SELF_CLAIM，出现 7 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：name_of → SELF_CLAIM → predicted_association，出现 7 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 时序传递链：['happened_before', 'happened_before', 'predicted_association'] (出现24次)
+    ✅ pattern_recognition: 10 处变更
+
+[2026-07-29T00:19:23.881377+08:00] layer=1 tasks=4 changes=0 issues=4
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 11.23)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 2.90)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.20)
+  - [conflict_detection:conflict_detection] 发现异常节点：「知识图谱...」(异常得分 2.09)
+
+[2026-07-29T00:22:49.903117+08:00] layer=1 tasks=4 changes=0 issues=4
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 11.29)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 2.97)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.24)
+  - [conflict_detection:conflict_detection] 发现异常节点：「知识图谱...」(异常得分 2.13)
+
+[2026-07-29T00:24:58.305085+08:00] layer=1 tasks=4 changes=0 issues=5
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 11.39)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 3.01)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.26)
+  - [conflict_detection:conflict_detection] 发现异常节点：「知识图谱...」(异常得分 2.15)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.01)
+
+[2026-07-29T10:38:47.727821+08:00] layer=2 tasks=3 changes=21 issues=11
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → predicted_association，出现 36 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → records → predicted_association，出现 28 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → happened_before → predicted_association，出现 22 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 16 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：records → predicted_association → happened_before，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → predicted_association，出现 11 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → name_of → name_of，出现 10 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：SELF_CLAIM → predicted_association → SELF_CLAIM，出现 7 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：name_of → SELF_CLAIM → predicted_association，出现 7 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 时序传递链：['happened_before', 'happened_before', 'predicted_association'] (出现22次)
+    ✅ structural_hole: 10 处变更
+    ✅ community_reorganization: 1 处变更
+    ✅ pattern_recognition: 10 处变更
+
+[2026-07-29T11:22:51.716460+08:00] layer=1 tasks=4 changes=0 issues=4
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 11.41)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 2.99)
+  - [conflict_detection:conflict_detection] 发现异常节点：「负氧离子...」(异常得分 2.26)
+  - [conflict_detection:conflict_detection] 发现异常节点：「知识图谱...」(异常得分 2.14)
+
+[2026-07-29T23:40:10.772547+08:00] layer=2 tasks=3 changes=20 issues=11
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → predicted_association，出现 39 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → records → predicted_association，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → happened_before → predicted_association，出现 22 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 16 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：records → predicted_association → happened_before，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → predicted_association，出现 11 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → name_of → name_of，出现 10 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：SELF_CLAIM → predicted_association → SELF_CLAIM，出现 7 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：name_of → SELF_CLAIM → predicted_association，出现 7 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 时序传递链：['happened_before', 'happened_before', 'predicted_association'] (出现22次)
+    ✅ structural_hole: 10 处变更
+    ✅ pattern_recognition: 10 处变更
+
