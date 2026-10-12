@@ -1,0 +1,125 @@
+[2026-07-16T10:54:01.169331] layer=1 tasks=4 changes=0 issues=6
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 6.61)
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.80)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 2.57)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.55)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.32)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.06)
+
+[2026-07-16T15:06:43.991552] layer=1 tasks=4 changes=0 issues=6
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 6.79)
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.76)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 2.54)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.51)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.28)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.27)
+
+[2026-07-16T15:19:19.262789] layer=2 tasks=3 changes=20 issues=10
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → mentioned_in → mentioned_in，出现 41 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：mentioned_in → related_to → mentioned_in，出现 35 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：mentioned_in → part_of → mentioned_in，出现 17 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：mentioned_in → expresses → mentioned_in，出现 16 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：mentioned_in → wrote → mentioned_in，出现 13 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：mentioned_in → feels_about → mentioned_in，出现 12 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：mentioned_in → contains → mentioned_in，出现 11 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：mentioned_in → lives_in → mentioned_in，出现 11 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：mentioned_in → works_at → mentioned_in，出现 10 次，已标记为认知脚本候选
+    ✅ structural_hole: 10 处变更
+    ✅ pattern_recognition: 10 处变更
+
+[2026-07-16T15:21:09.949146] layer=1 tasks=4 changes=0 issues=6
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 6.67)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 3.02)
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.63)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.54)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.42)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.31)
+
+[2026-07-16T15:48:26.782085] layer=1 tasks=4 changes=0 issues=7
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 6.62)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 3.04)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.67)
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.54)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.44)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.22)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.15)
+
+[2026-07-16T15:51:03.361841] layer=1 tasks=4 changes=0 issues=7
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 6.56)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 3.25)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.76)
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.52)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.42)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.20)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.13)
+
+[2026-07-16T15:53:36.400199] layer=1 tasks=4 changes=0 issues=7
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 6.28)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 3.31)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.85)
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.57)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.46)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.28)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.12)
+
+[2026-07-16T15:59:09.892582] layer=1 tasks=4 changes=0 issues=7
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 6.27)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 3.26)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.02)
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.52)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.42)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.36)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.35)
+
+[2026-07-16T16:07:13.099556] layer=1 tasks=4 changes=0 issues=7
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 6.04)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 3.31)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.21)
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.58)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.58)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.48)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.31)
+
+[2026-07-16T16:14:27.820963] layer=1 tasks=4 changes=0 issues=7
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 6.09)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 3.34)
+  - [conflict_detection:conflict_detection] 发现异常节点：「AI实体...」(异常得分 3.06)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.69)
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.58)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.47)
+  - [conflict_detection:conflict_detection] 发现异常节点：「...」(异常得分 2.12)
+
+[2026-07-16T21:43:36.899982] layer=1 tasks=4 changes=0 issues=0
+
+[2026-07-16T21:54:08.254670] layer=1 tasks=4 changes=0 issues=0
+
+[2026-07-16T21:57:11.694083] layer=1 tasks=4 changes=0 issues=0
+
+[2026-07-16T22:00:25.899926] layer=1 tasks=4 changes=0 issues=0
+
+[2026-07-16T22:03:55.493576] layer=1 tasks=4 changes=0 issues=0
+
+[2026-07-16T22:07:18.165957] layer=1 tasks=4 changes=0 issues=0
+
+[2026-07-16T22:13:20.359063] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 2.12)
+
+[2026-07-16T22:18:31.695998] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 2.31)
+
+[2026-07-16T22:23:59.564655] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 2.48)
+
+[2026-07-16T22:34:09.355596] layer=2 tasks=3 changes=50 issues=7
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 9 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → predicted_association → identity_user，出现 3 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → identity_user → predicted_association，出现 3 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → records → predicted_association，出现 3 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → happened_before → predicted_association，出现 3 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 3 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 时序传递链：['happened_before', 'happened_before', 'predicted_association'] (出现3次)
+    ✅ structural_hole: 10 处变更
+    ✅ community_reorganization: 34 处变更
+    ✅ pattern_recognition: 6 处变更
+

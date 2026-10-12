@@ -1,0 +1,93 @@
+[2026-07-21T00:28:57.027761+08:00] layer=2 tasks=3 changes=16 issues=7
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → records → predicted_association，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → predicted_association → identity_user，出现 11 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → identity_user → predicted_association，出现 11 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 11 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → happened_before → predicted_association，出现 3 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 时序传递链：['happened_before', 'happened_before', 'predicted_association'] (出现3次)
+    ✅ structural_hole: 10 处变更
+    ✅ pattern_recognition: 6 处变更
+
+[2026-07-21T08:45:04.653957+08:00] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 5.83)
+
+[2026-07-21T09:50:53.987347+08:00] layer=2 tasks=3 changes=17 issues=8
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → records → predicted_association，出现 20 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → predicted_association → identity_user，出现 13 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → identity_user → predicted_association，出现 13 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 13 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → happened_before → predicted_association，出现 6 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → predicted_association，出现 4 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 时序传递链：['happened_before', 'happened_before', 'predicted_association'] (出现6次)
+    ✅ structural_hole: 10 处变更
+    ✅ pattern_recognition: 7 处变更
+
+[2026-07-21T10:00:11.706185+08:00] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 5.93)
+
+[2026-07-21T10:09:53.165912+08:00] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 5.99)
+
+[2026-07-21T10:13:02.219429+08:00] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 6.05)
+
+[2026-07-21T10:52:40.060474+08:00] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 6.12)
+
+[2026-07-21T11:06:32.567399+08:00] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 6.18)
+
+[2026-07-21T17:38:46.724722+08:00] layer=2 tasks=3 changes=18 issues=9
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → records → predicted_association，出现 22 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → predicted_association → identity_user，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → identity_user → predicted_association，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → happened_before → predicted_association，出现 9 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → predicted_association，出现 7 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → predicted_association，出现 2 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 时序传递链：['happened_before', 'happened_before', 'predicted_association'] (出现9次)
+    ✅ structural_hole: 10 处变更
+    ✅ pattern_recognition: 8 处变更
+
+[2026-07-21T17:44:41.006500+08:00] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 6.61)
+
+[2026-07-21T22:25:42.470259+08:00] layer=2 tasks=3 changes=20 issues=11
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → records → predicted_association，出现 25 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → predicted_association → identity_user，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → identity_user → predicted_association，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → happened_before → predicted_association，出现 12 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → predicted_association，出现 10 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → predicted_association，出现 4 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → mentioned_in，出现 2 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → records，出现 2 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 时序传递链：['happened_before', 'happened_before', 'predicted_association'] (出现12次)
+    ✅ structural_hole: 10 处变更
+    ✅ pattern_recognition: 10 处变更
+
+[2026-07-21T22:39:52.172445+08:00] layer=2 tasks=3 changes=20 issues=11
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → records → predicted_association，出现 25 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → predicted_association → identity_user，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → identity_user → predicted_association，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 15 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → happened_before → predicted_association，出现 12 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → predicted_association → predicted_association，出现 10 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → predicted_association，出现 4 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → mentioned_in，出现 2 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → records，出现 2 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 时序传递链：['happened_before', 'happened_before', 'predicted_association'] (出现12次)
+    ✅ structural_hole: 10 处变更
+    ✅ pattern_recognition: 10 处变更
+
+[2026-07-21T22:49:58.123368+08:00] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 7.08)
+
+[2026-07-21T22:53:23.699745+08:00] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 7.15)
+

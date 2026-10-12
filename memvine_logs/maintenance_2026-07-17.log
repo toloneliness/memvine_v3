@@ -1,0 +1,15 @@
+[2026-07-17T00:38:44.551585] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 2.76)
+
+[2026-07-17T00:42:19.462498] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 2.91)
+
+[2026-07-17T00:45:44.274740] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 3.06)
+
+[2026-07-17T09:16:20.413635] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 3.40)
+
+[2026-07-17T09:24:15.512730] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 3.50)
+

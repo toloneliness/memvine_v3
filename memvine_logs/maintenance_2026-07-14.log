@@ -1,0 +1,31 @@
+[2026-07-14T23:10:20.770416] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.31)
+
+[2026-07-14T23:10:24.031114] layer=2 tasks=3 changes=15 issues=6
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → happened_before → predicted_association，出现 13 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 4 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → predicted_association → predicted_association，出现 3 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_self → predicted_association → predicted_association，出现 2 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → happened_before → predicted_association，出现 2 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 时序传递链：['happened_before', 'happened_before', 'predicted_association'] (出现13次)
+    ✅ structural_hole: 10 处变更
+    ✅ pattern_recognition: 5 处变更
+
+[2026-07-14T23:10:24.031114] layer=3 tasks=4 changes=21 issues=2
+  - [narrative_consistency:narrative_consistency] 自我名称「零」置信度不足，需要更多对话确认
+  - [narrative_consistency:narrative_consistency] 对方名称「小砂锅」置信度不足，需要更多对话确认
+    ✅ graph_summarization: 20 处变更
+    ✅ causal_reconstruction: 1 处变更
+
+[2026-07-14T23:15:35.480715] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.60)
+
+[2026-07-14T23:17:09.179317] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.47)
+
+[2026-07-14T23:18:24.231152] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.32)
+
+[2026-07-14T23:19:24.846463] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好 我是小砂锅...」(异常得分 2.38)
+

@@ -1,0 +1,64 @@
+[2026-07-20T00:15:41.247822] layer=2 tasks=3 changes=96 issues=5
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 23 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → records → predicted_association，出现 6 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → predicted_association → identity_user，出现 4 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → identity_user → predicted_association，出现 4 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 4 次，已标记为认知脚本候选
+    ✅ structural_hole: 10 处变更
+    ✅ community_reorganization: 81 处变更
+    ✅ pattern_recognition: 5 处变更
+
+[2026-07-20T00:20:26.893618] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 4.67)
+
+[2026-07-20T00:24:36.773925] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 4.75)
+
+[2026-07-20T00:30:15.376561] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 4.84)
+
+[2026-07-20T00:34:02.209432] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 4.90)
+
+[2026-07-20T07:32:45.951018] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 4.95)
+
+[2026-07-20T07:38:30.531074] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 5.00)
+
+[2026-07-20T07:45:01.537582] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 5.05)
+
+[2026-07-20T07:46:22.517477] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 5.10)
+
+[2026-07-20T07:50:06.247036] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 5.15)
+
+[2026-07-20T08:01:09.015704] layer=2 tasks=3 changes=15 issues=5
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：identity_user → identity_user → identity_user，出现 27 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → records → predicted_association，出现 12 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → predicted_association → identity_user，出现 8 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：happened_before → identity_user → predicted_association，出现 8 次，已标记为认知脚本候选
+  - [pattern_recognition:pattern_recognition] 识别出重复模式：predicted_association → identity_user → predicted_association，出现 8 次，已标记为认知脚本候选
+    ✅ structural_hole: 10 处变更
+    ✅ pattern_recognition: 5 处变更
+
+[2026-07-20T08:10:15.041609] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 5.30)
+
+[2026-07-20T08:50:33.739460] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 5.35)
+
+[2026-07-20T13:50:11.169666+08:00] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 5.39)
+
+[2026-07-20T14:20:21.435524+08:00] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 5.52)
+
+[2026-07-20T14:24:14.430517+08:00] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 5.62)
+
+[2026-07-20T14:26:38.007107+08:00] layer=1 tasks=4 changes=0 issues=1
+  - [conflict_detection:conflict_detection] 发现异常节点：「你好...」(异常得分 5.70)
+
