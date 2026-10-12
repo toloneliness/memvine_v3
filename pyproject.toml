@@ -1,0 +1,16 @@
+[project]
+name = "memvine"
+version = "3.0.0"
+description = "数字生命记忆系统"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.0.0",
+    "pendulum>=3.0.0",
+    "networkx>=3.0",
+    "chromadb>=0.5.0",
+    "langchain-text-splitters>=0.3.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
